@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.headfont {
+    font-family: 'Architects Daughter', cursive, serif;
+}
+
+p {
+  font-family: sans-serif, arial, helvetica;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+header, footer {background-color: #240024;
+       color: white;
+       text-align: center;}
+h1, h2{ font
+
+}
+
+h2, p, ol {padding-left: 50px;
+      padding-right: 50px}
+
+li {margin-left: 20px;}
+
+
+a:link    { color: blue;  }
+a:visited { color: purple;   }
+a:hover   { color: red; }
+a:active  { color: orange;  }
