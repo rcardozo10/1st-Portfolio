@@ -5,12 +5,12 @@ html {
 
 .headfont {
     font-family: 'Architects Daughter', cursive, serif;
-  font-size: 100px;
+ 
 }
 
 p {
   font-family: sans-serif, arial, helvetica;
-  font-size: 20px;
+   font-size: 30px;
 }
 
  
@@ -21,10 +21,12 @@ p {
   margin-right: auto;
   width: 50%;
 }
+
 header, footer {background-color: #240024;
        color: white;
        text-align: center;}
-h1, h2{ font-size: 30px;
+
+h1, h2{ font-size: 50px;
 
 }
 
