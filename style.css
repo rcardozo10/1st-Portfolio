@@ -5,12 +5,15 @@ html {
 
 .headfont {
     font-family: 'Architects Daughter', cursive, serif;
+  font-size: 50;
 }
 
 p {
   font-family: sans-serif, arial, helvetica;
 }
 
+ 
+/* general text alignment */
 .center {
   display: block;
   margin-left: auto;
@@ -29,7 +32,7 @@ h2, p, ol {padding-left: 50px;
 
 li {margin-left: 20px;}
 
-
+/* links section */
 a:link    { color: blue;  }
 a:visited { color: purple;   }
 a:hover   { color: red; }
